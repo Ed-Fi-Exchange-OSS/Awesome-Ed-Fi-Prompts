@@ -5,6 +5,9 @@ Use this template when submitting a new prompt to the Awesome Ed-Fi Prompts repo
 ## Prompt Title
 [Provide a clear, descriptive title for your prompt]
 
+## Submitted By
+[Your name or GitHub username - who is submitting this prompt idea]
+
 ## Prompt
 
 [Write your detailed prompt here. Include context, requirements, and expected outcomes]

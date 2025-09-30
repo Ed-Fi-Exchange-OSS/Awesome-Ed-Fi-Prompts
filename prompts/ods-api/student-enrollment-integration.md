@@ -1,5 +1,7 @@
 # Ed-Fi ODS/API Student Enrollment Integration
 
+> **Disclaimer**: This prompt was written by GitHub Copilot Coding Agent as an example for the Awesome Ed-Fi Prompts repository.
+
 ## Prompt
 
 Create a Python application that integrates with the Ed-Fi ODS/API to manage student enrollment data. The application should:

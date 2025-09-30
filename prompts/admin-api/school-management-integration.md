@@ -1,5 +1,7 @@
 # Ed-Fi Admin API School Management Integration
 
+> **Disclaimer**: This prompt was written by GitHub Copilot Coding Agent as an example for the Awesome Ed-Fi Prompts repository.
+
 ## Prompt
 
 Develop a Node.js application that integrates with the Ed-Fi Admin API to manage educational organizations, applications, and API client configurations. The application should:
